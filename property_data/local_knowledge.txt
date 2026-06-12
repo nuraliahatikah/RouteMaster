@@ -1,0 +1,45 @@
+# Mini Homestay Bak — Pontian, Johor
+# Operational facts (ground truth for guest replies). Do not infer beyond this file.
+
+[PROPERTY]
+Name: Mini Homestay Bak
+Location: Pontian, Johor, Malaysia
+Property type: Small homestay / short-term rental
+Contact for urgent issues: Property manager on WhatsApp (number provided in welcome message at check-in)
+
+[CHECK_IN_CHECK_OUT]
+Standard check-in time: 3:00 PM (15:00) local time
+Early check-in: Not guaranteed; subject to prior-day checkout and cleaning completion
+Standard checkout time: 11:00 AM (11:00) local time
+Late checkout: Not available unless pre-approved at least 24 hours in advance; additional fee may apply
+Keys / access: Self check-in lockbox; code sent on arrival day after payment confirmation
+
+[PARKING]
+On-site parking: Maximum 2 vehicles allowed inside the property gate / driveway at any one time
+Additional vehicles: Must park on the public curb along the street in front of the property; do not block neighbors' driveways or fire lanes
+Oversized vehicles: Large vans or trucks may not fit inside; use curb parking only
+Parking is free for guests; no reserved numbered bays inside
+
+[TRASH_DISPOSAL]
+Kitchen waste bags: Must be double-bagged (two layers) before placing in the outdoor bin
+Liquid / wet waste: Wipe excess liquid from plates; do not pour oils or soups directly into bags
+Bag sealing: Tie both inner and outer bag knots tightly so nothing leaks during collection
+Sharp items: Wrap in paper or cardboard before bagging; never place loose in bin
+Recycling: Separate clean recyclables (plastic bottles, cans) in the blue bin if provided
+Collection day: Municipal pickup is Tuesday morning; place sealed bags in the outdoor bin by 7:00 AM Monday night
+
+[HOUSE_RULES]
+Maximum guests: As stated on booking confirmation only
+Quiet hours: 10:00 PM to 8:00 AM
+Smoking: Strictly prohibited indoors; designated outdoor area only if marked
+Pets: Not allowed unless explicitly approved in writing before arrival
+
+[AMENITIES]
+Wi-Fi: Network name and password on the welcome card on the kitchen counter
+Air conditioning: Bedroom units only; please switch off when leaving the unit
+Water heater: Allow 10 minutes after switching on for hot water
+
+[COMMON_GUEST_CONCERNS]
+Parking confusion: Only 2 cars inside; all others on curb — this is a neighborhood rule, not a host preference
+Checkout reminders: Automated message sent at 9:00 AM on checkout day; departure by 11:00 AM is required for same-day turnovers
+Trash smell: Almost always caused by single-bagged wet kitchen waste — double-bag and seal both knots
