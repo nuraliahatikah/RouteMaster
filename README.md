@@ -107,6 +107,4 @@ Built during Quackathon weekend — not a pre-existing project. Key design choic
 
 ---
 
-## License
 
-Hackathon submission — Quackathon 2026.
