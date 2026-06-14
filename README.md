@@ -96,9 +96,7 @@ Operational facts baked into `local_knowledge.txt`:
 
 ---
 
-## Engineering notes (for judges)
-
-Built during Quackathon weekend — not a pre-existing project. Key design choices:
+## Engineering notes
 
 1. **Modular Python packages** — UI in `app.py`, logic in `routemaster/`  
 2. **Ground-truth constraint** — `relevant_facts()` only returns lines from the knowledge file  
