@@ -1,6 +1,6 @@
 # RouteMaster
 
-**Quackathon Track 2** — A local, grounded guest-review ops desk for **Mini Homestay Bak** (Pontian, Johor).
+ A local, grounded guest-review ops desk for **Mini Homestay Bak** (Pontian, Johor).
 
 RouteMaster ingests customer reviews, cross-references operational facts from a local knowledge file, drafts zero-hallucination replies, and files structured issues to the **Produck** API when action is needed.
 
