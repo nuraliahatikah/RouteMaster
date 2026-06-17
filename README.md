@@ -17,16 +17,6 @@ RouteMaster ingests customer reviews, cross-references operational facts from a 
 
 ---
 
-## Demo flow (2 minutes)
-
-1. **Start the app** → sidebar shows property profile + live incidents feed  
-2. **Pick a scenario** (e.g. *Trash bag leaked*) → review text appears  
-3. **Run evaluation** → sentiment badge, cited facts, grounded reply draft  
-4. **Track 2 hub** → inspect JSON payload → **Push issue to Produck API**  
-5. **Download payload** (optional) for offline proof of structured output  
-
----
-
 ## Quick start
 
 ### Prerequisites
