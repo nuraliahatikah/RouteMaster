@@ -1,4 +1,5 @@
 # RouteMaster
+🚀 **Official Submission for Quackathon 2026**
 
  A local, grounded guest-review ops desk for **Mini Homestay Bak** (Pontian, Johor).
 
@@ -105,4 +106,4 @@ Operational facts baked into `local_knowledge.txt`:
 
 ---
 
-
+🏁 Thank you to the organizers and sponsors—time to ship this Quackathon project! 🚀
